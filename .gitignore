@@ -85,7 +85,6 @@ Session.vim
 *~
 
 # VSCode project files
-.vscode
 *.code-workspace
 
 # Gogland project files
@@ -127,3 +126,7 @@ report.xml
 go.*.orig
 config.override.mk
 docker-compose.override.yaml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
